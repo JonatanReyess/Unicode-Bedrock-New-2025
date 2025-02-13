@@ -2,10 +2,6 @@
  **Unicode ใหม่สำหรับ Bedrock ลบเครดิต จะงดอัพเดท มีไรใหม่ๆ ไม่แจกละ งอล ชิ ><**
 **Unicode ส่วนนึงเป็นของ The Hive หากไม่อยากจะใช้ ผมจะลบในส่วนของ `The Hive` ให้ครับ**
 
-
-**เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.**
-https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber<br>
-
 > - <h2>Server install usage</h2>
 [![](http://img.youtube.com/vi/DOz0nD8pvnM/0.jpg)](https://youtu.be/DOz0nD8pvnM)
 
@@ -69,6 +65,13 @@ https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber<br>
 |             U54                   |     All      |          |  -      |![5F2704F1-1161-4958-96F7-6432C34AF824_4_5005_c](https://user-images.githubusercontent.com/12781303/99870993-c10b4080-2c09-11eb-88d4-761aca000063.jpeg)|
 |             U55                   |     All      |          |  -      |![D41E1302-B665-4719-8D41-4CFCD567E5D3_4_5005_c](https://user-images.githubusercontent.com/12781303/99870995-c6688b00-2c09-11eb-8661-7d78c9319f27.jpeg)|
 |             U56                   |     All      |          |  -      |![4A3E87EA-237D-4ECF-B779-4C280B16C5F2_4_5005_c](https://user-images.githubusercontent.com/12781303/99870998-cd8f9900-2c09-11eb-9b64-9b19f3c58ec0.jpeg)|
+|             U56-1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/890a9ab9-dfb1-4130-81c1-4a453cb35721)|
+|             U56-2                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/3d7be1eb-eab1-41e3-9847-7d8e8d9dd26c)|
+|             U56-3                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/8367ff68-6cb2-40ef-9da3-298b74d8ddae)|
+|             U56-4                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/48c4105d-d2fa-4ef7-8fce-57f8029a8f9e)|
+|             U56-5                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/2fc8ae44-c84a-4e13-98a4-e49489ab21ab)|
+|             U56-6                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/51286b8d-3292-443b-91f8-8550b72fd48c)|
+|             U56-7                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/2ce65a2e-ab9b-4093-8975-6cdcfbaa3fc1)|
 |             U57                   |     All      |          |  -      |![547FFEC6-30E6-4CF1-B738-EA96D997E349_4_5005_c](https://user-images.githubusercontent.com/12781303/99871009-e39d5980-2c09-11eb-8886-82d1a67ee8d5.jpeg)|
 |             U57-1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d86d6b6c-3ee5-4d98-8467-eb5a713a646a)|
 |             U58                   |     All      |          |  -      |![A4FDB210-684E-4781-B584-F979CF56B8BF_4_5005_c](https://user-images.githubusercontent.com/12781303/99871012-eb5cfe00-2c09-11eb-9ec2-956bf3c94b24.jpeg)|
