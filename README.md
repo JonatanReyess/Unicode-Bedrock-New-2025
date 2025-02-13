@@ -267,6 +267,41 @@
 |             U2A24                  |     All      |          |  -      |![skull](https://user-images.githubusercontent.com/12781303/103541892-ad245100-4ece-11eb-8224-27a5d7b88fda.png)|
 
 
+
+
+
+|               Name               |   Platform   | Character | Unicode |                     In game                    |
+|:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
+|             U1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/9e021de4-6ceb-4f0f-aaef-d3918b7b77af)|
+|             U2                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/4b52f59f-5ccf-4847-a97b-4985e578f41c)|
+|             U3                   |     All      |         |  -      |![image](https://github.com/user-attachments/assets/ff10fe91-17d4-4acd-9862-ba72d03d2af7)|
+|             U4                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/e49a9311-7aa3-40a8-84e9-a791ce261522)|
+|             U5                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/4183522c-0174-4de2-bf4a-9e58fb95ef2d)|
+|             U6                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/233c3563-3a32-4a78-b275-8c227ae94dfe)|
+|             U7                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d8de3bb5-0f4d-4182-810a-e0f84214ee67)|
+|             U8                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/a0edd8ff-39c6-438c-9dd2-4d289756a5d9)|
+|             U9                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/4a1ee690-34d3-4893-9f88-8f43d9c950aa)|
+|             U10                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d25994c4-3a5a-421f-b548-37fb4a58d341)|
+|             U11                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/2ab1a551-b70f-417c-bf64-a1e27e260e0f)|
+|             U12                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/f4c2a38a-4e45-4d76-87d4-ba3ac16ef6bd)|
+|             U13                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/adfe8f1b-593e-4ebe-b837-0837b55cb3a4)|
+|             U14                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/c9354739-49fe-40fb-957a-ff97c2ef9bd0)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/3d8df8d0-9f0c-4d9a-b7c4-bf579544cba3)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/586253d4-26c4-44b9-8763-8c0f02697e1c)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/ae12c113-6f05-491f-ad65-943aac323149)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/fd8c6fd5-5263-40eb-b6e6-9aec94426c44)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d4a0bbb7-bf6d-4dcd-b742-fc2a8d847edd)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/67519b41-f54e-4775-a201-7e8411d27905)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/1ba8de18-9676-4a04-b032-555e9a12c8b0)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/68360c38-d397-49c2-b3a9-5d1e7fcd6951)|
+
+
+
+
+
+
+
+
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
 |             U2A25                  |     All      |    ⨀      |  -      |![แฟล](https://user-images.githubusercontent.com/12781303/103542078-f96f9100-4ece-11eb-8a87-a7b872f442ef.png)|
