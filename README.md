@@ -1,9 +1,4 @@
-# **`Unicode-Bedrock-New + The Hive`**
- **Unicode ใหม่สำหรับ Bedrock ลบเครดิต จะงดอัพเดท มีไรใหม่ๆ ไม่แจกละ งอล ชิ ><**
-**Unicode ส่วนนึงเป็นของ The Hive หากไม่อยากจะใช้ ผมจะลบในส่วนของ `The Hive` ให้ครับ**
-
-> - <h2>Server install usage</h2>
-[![](http://img.youtube.com/vi/DOz0nD8pvnM/0.jpg)](https://youtu.be/DOz0nD8pvnM)
+# **`Unicode-Bedrock-New`**
 
  > <h2>List Unicode</h2>
  
