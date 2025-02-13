@@ -6,13 +6,6 @@
 **เพื่อเป็นการขอบคุณโปรกด subscribe ช่อง | To thank the pro, press subscribe.**
 https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber<br>
 
-> - <h2>How to install Unicode on mobile</h2>
-[![](http://img.youtube.com/vi/GHy_qYswfz0/0.jpg)](https://youtu.be/GHy_qYswfz0)
-
-
-> - <h2>Unicode usage</h2>
-[![](http://img.youtube.com/vi/xJIY6p1vPdY/0.jpg)](https://youtu.be/xJIY6p1vPdY)
-
 > - <h2>Server install usage</h2>
 [![](http://img.youtube.com/vi/DOz0nD8pvnM/0.jpg)](https://youtu.be/DOz0nD8pvnM)
 
@@ -77,6 +70,7 @@ https://www.youtube.com/channel/UC90J7ZO0uraH6kIjJ43v6UQ?view_as=subscriber<br>
 |             U55                   |     All      |          |  -      |![D41E1302-B665-4719-8D41-4CFCD567E5D3_4_5005_c](https://user-images.githubusercontent.com/12781303/99870995-c6688b00-2c09-11eb-8661-7d78c9319f27.jpeg)|
 |             U56                   |     All      |          |  -      |![4A3E87EA-237D-4ECF-B779-4C280B16C5F2_4_5005_c](https://user-images.githubusercontent.com/12781303/99870998-cd8f9900-2c09-11eb-9b64-9b19f3c58ec0.jpeg)|
 |             U57                   |     All      |          |  -      |![547FFEC6-30E6-4CF1-B738-EA96D997E349_4_5005_c](https://user-images.githubusercontent.com/12781303/99871009-e39d5980-2c09-11eb-8886-82d1a67ee8d5.jpeg)|
+|             U57-1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d86d6b6c-3ee5-4d98-8467-eb5a713a646a)|
 |             U58                   |     All      |          |  -      |![A4FDB210-684E-4781-B584-F979CF56B8BF_4_5005_c](https://user-images.githubusercontent.com/12781303/99871012-eb5cfe00-2c09-11eb-9ec2-956bf3c94b24.jpeg)|
 |             U59                   |     All      |          |  -      |![C4E8CAF3-8F80-43BD-84F5-C3434AB7164A_4_5005_c](https://user-images.githubusercontent.com/12781303/99871017-f152df00-2c09-11eb-8e34-cd4ccdebe311.jpeg)|
 |             U60                   |     All      |          |  -      |![3B865279-0041-4E78-BF9E-24AF11C268E0_4_5005_c](https://user-images.githubusercontent.com/12781303/99871020-f748c000-2c09-11eb-82c1-863004b4c224.jpeg)|
