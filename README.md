@@ -265,6 +265,10 @@
 |             U2A22                  |     All      |          |  -      |![คี](https://user-images.githubusercontent.com/12781303/103541884-a85f9d00-4ece-11eb-93cc-5ff8f7e8d797.png)|
 |             U2A23                  |     All      |          |  -      |![Noti](https://user-images.githubusercontent.com/12781303/103541888-aac1f700-4ece-11eb-9d1d-fc52a83e6e00.png)|
 |             U2A24                  |     All      |          |  -      |![skull](https://user-images.githubusercontent.com/12781303/103541892-ad245100-4ece-11eb-8224-27a5d7b88fda.png)|
+
+
+|               Name               |   Platform   | Character | Unicode |                     In game                    |
+|:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
 |             U2A25                  |     All      |    ⨀      |  -      |![แฟล](https://user-images.githubusercontent.com/12781303/103542078-f96f9100-4ece-11eb-8a87-a7b872f442ef.png)|
 |             U2A26                  |     All      |    ⨁      |  -      |![แฟลก](https://user-images.githubusercontent.com/12781303/103542082-faa0be00-4ece-11eb-8929-00aa80503ccc.png)|
 |             U2A27                  |     All      |    ⨂      |  -      |![แฟลกภ](https://user-images.githubusercontent.com/12781303/103542088-fc6a8180-4ece-11eb-96a9-576f6eeea5bc.png)|
