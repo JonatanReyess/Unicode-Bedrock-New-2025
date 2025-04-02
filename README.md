@@ -273,8 +273,8 @@
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
 |             U1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/9e021de4-6ceb-4f0f-aaef-d3918b7b77af)|
-|             U2                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/4b52f59f-5ccf-4847-a97b-4985e578f41c)|
-|             U3                   |     All      |         |  -      |![image](https://github.com/user-attachments/assets/ff10fe91-17d4-4acd-9862-ba72d03d2af7)|
+|             U2                   |     All      |         |  -      |![image](https://github.com/user-attachments/assets/4b52f59f-5ccf-4847-a97b-4985e578f41c)|
+|             U3                   |     All      |        |  -      |![image](https://github.com/user-attachments/assets/ff10fe91-17d4-4acd-9862-ba72d03d2af7)|
 |             U4                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/e49a9311-7aa3-40a8-84e9-a791ce261522)|
 |             U5                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/4183522c-0174-4de2-bf4a-9e58fb95ef2d)|
 |             U6                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/233c3563-3a32-4a78-b275-8c227ae94dfe)|
