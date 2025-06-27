@@ -1,5 +1,3 @@
-# **`Unicode-Bedrock-New`**
-
  > <h2>List Unicode</h2>
  
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
@@ -260,26 +258,55 @@
 
 |               Name               |   Platform   | Character | Unicode |                     In game                    |
 |:--------------------------------:|:------------:|:---------:|:-------:|:----------------------------------------------:|
-|             U56-1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/890a9ab9-dfb1-4130-81c1-4a453cb35721)|
-|             U56-2                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/3d7be1eb-eab1-41e3-9847-7d8e8d9dd26c)|
-|             U56-3                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/8367ff68-6cb2-40ef-9da3-298b74d8ddae)|
-|             U56-4                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/48c4105d-d2fa-4ef7-8fce-57f8029a8f9e)|
-|             U56-5                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/2fc8ae44-c84a-4e13-98a4-e49489ab21ab)|
-|             U56-6                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/51286b8d-3292-443b-91f8-8550b72fd48c)|
-|             U56-7                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/2ce65a2e-ab9b-4093-8975-6cdcfbaa3fc1)|
-|             U57-1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d86d6b6c-3ee5-4d98-8467-eb5a713a646a)|
-|             U58-1                  |     All      |          |  -      |![image](https://github.com/user-attachments/assets/34d2edeb-d4ff-4b45-b2aa-ae54d04e73ba)|
-|             U58-2                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/868c4255-1932-4edd-ae87-dd5627bee354)|
-|             U58-3                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/30588a33-7281-4154-a4cc-aa09af6d5b1a)|
-|             U63-1                 |     All      |          |  -      |![image](https://github.com/user-attachments/assets/1e7f1f40-9ba0-4d27-b8c4-2460df0ac3fc)|
-|             U1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/9e021de4-6ceb-4f0f-aaef-d3918b7b77af)|
-|             U2                   |     All      |         |  -      |![image](https://github.com/user-attachments/assets/4b52f59f-5ccf-4847-a97b-4985e578f41c)|
+|             U1                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/48c4105d-d2fa-4ef7-8fce-57f8029a8f9e)|
+|             U2                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/890a9ab9-dfb1-4130-81c1-4a453cb35721)|
+|             U3                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/2ce65a2e-ab9b-4093-8975-6cdcfbaa3fc1)|
+|             U4                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/8367ff68-6cb2-40ef-9da3-298b74d8ddae)|
+|             U5                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/51286b8d-3292-443b-91f8-8550b72fd48c)|
+|             U6                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/3d7be1eb-eab1-41e3-9847-7d8e8d9dd26c)|
+|             U7                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/7491d2fb-d31a-45ea-829f-a8ee617f62d2)|
+|             U8                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/2fc8ae44-c84a-4e13-98a4-e49489ab21ab)|
+|             U9                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/0a96f649-ea01-4e93-b5f8-6228cc955ba0)|
+|             U10                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/9e021de4-6ceb-4f0f-aaef-d3918b7b77af)|
+|             U11                  |     All      |          |  -      |![image](https://github.com/user-attachments/assets/5c4d99ae-a906-4774-9cdf-b8f339669bcc)|
+|             U12                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d86d6b6c-3ee5-4d98-8467-eb5a713a646a)|
+|             U13                   |     All      |         |  -      |![image](https://github.com/user-attachments/assets/4b52f59f-5ccf-4847-a97b-4985e578f41c)|
+|             U14                  |     All      |          |  -      |![image](https://github.com/user-attachments/assets/34d2edeb-d4ff-4b45-b2aa-ae54d04e73ba)|
+|             U15                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/868c4255-1932-4edd-ae87-dd5627bee354)|
+|             U16                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/e49a9311-7aa3-40a8-84e9-a791ce261522)|
+|             U17                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/0970c38f-99ff-4da9-a9a5-227441b5ccac)|
+|             U18                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/68aa2594-81e6-47f6-95f9-ee5fe7401a59)|
+|             U19                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/52834973-a5a3-40bc-ab4f-15469ec41066)|
+|             U20                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/b8ce3297-4c53-41b0-99d9-da79eed82a60)|
+|             U21                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/c247a87b-82b3-4885-bccd-037f51efba57)|
+|             U22                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/fed019c6-4f7c-480b-89f4-3ec3ae130651)|
+|             U23                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/09ccf2aa-9620-40c0-9e41-ac0c7480e93a)|
+|             U24                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/5b653c1c-e9b3-485f-b1e5-d8bd4c1a4e24)|
+|             U25                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/49928f94-4a8b-4133-83e5-7d5ac49eb662)|
+|             U26                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d21b4638-4d21-4235-af33-a29dee4408cb)|
+|             U27                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d8de3bb5-0f4d-4182-810a-e0f84214ee67)|
+|             U28                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/a0edd8ff-39c6-438c-9dd2-4d289756a5d9)|
+|             U29                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/4f826b2e-6b83-4949-859f-25753ee86cdb)|
+|             U30                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/c8418a43-7214-484a-a988-3a8af73a4ef7)|
+|             U31                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/7cbe01a3-9ee6-48e7-8184-6f3263eb523e)|
+|             U32                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/75b03f14-21e4-444f-b7b7-44d4b516c124)|
+|             U33                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/297415a3-7f0a-422e-9423-087f44af9164)|
+|             U34                   |     All      |          |  -      ||
+|             U35                   |     All      |          |  -      ||
+
+
+
+
+
+
+
+
+
+|             U17                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/30588a33-7281-4154-a4cc-aa09af6d5b1a)|
+|             U18                 |     All      |          |  -      |![image](https://github.com/user-attachments/assets/1e7f1f40-9ba0-4d27-b8c4-2460df0ac3fc)|
 |             U3                   |     All      |        |  -      |![image](https://github.com/user-attachments/assets/ff10fe91-17d4-4acd-9862-ba72d03d2af7)|
-|             U4                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/e49a9311-7aa3-40a8-84e9-a791ce261522)|
 |             U5                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/4183522c-0174-4de2-bf4a-9e58fb95ef2d)|
 |             U6                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/233c3563-3a32-4a78-b275-8c227ae94dfe)|
-|             U7                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d8de3bb5-0f4d-4182-810a-e0f84214ee67)|
-|             U8                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/a0edd8ff-39c6-438c-9dd2-4d289756a5d9)|
 |             U9                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/4a1ee690-34d3-4893-9f88-8f43d9c950aa)|
 |             U10                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/d25994c4-3a5a-421f-b548-37fb4a58d341)|
 |             U11                   |     All      |          |  -      |![image](https://github.com/user-attachments/assets/2ab1a551-b70f-417c-bf64-a1e27e260e0f)|
